@@ -1,0 +1,492 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 14,
+        "name": "To check if the user is able to register and login with valid \u0026 invalid details",
+        "description": "",
+        "id": "crossword-website;to-check-if-the-user-is-able-to-register-and-login-with-valid-\u0026-invalid-details;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 14335470500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "The User launch the Chrome application",
+            "match": {
+              "location": "RegisterLogin_Crossword_Step.the_User_launch_the_Chrome_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5266342200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Enter the required details to register",
+            "match": {
+              "location": "RegisterLogin_Crossword_Step.enter_the_required_details_to_register()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 7032202800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "The user login using \"raginiboobalan@gmail.com\" and \"ragiboo@09\" with vaild and invaild deatils",
+            "match": {
+              "arguments": [
+                {
+                  "val": "raginiboobalan@gmail.com",
+                  "offset": 22
+                },
+                {
+                  "val": "ragiboo@09",
+                  "offset": 53
+                }
+              ],
+              "location": "RegisterLogin_Crossword_Step.the_user_login_using_and_with_vaild_and_invaild_deatils(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1159237000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Close the browser",
+            "match": {
+              "location": "RegisterLogin_Crossword_Step.close_the_browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@TC01_Register_and_Login_with_ValidInvalid_details"
+          },
+          {
+            "line": 1,
+            "name": "@Crossword_WebPage_RaginiBoobalan"
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "To check if the user is able to register and login with valid \u0026 invalid details",
+        "description": "",
+        "id": "crossword-website;to-check-if-the-user-is-able-to-register-and-login-with-valid-\u0026-invalid-details;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 17249968300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "The User launch the Chrome application",
+            "match": {
+              "location": "RegisterLogin_Crossword_Step.the_User_launch_the_Chrome_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5731431400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Enter the required details to register",
+            "match": {
+              "location": "RegisterLogin_Crossword_Step.enter_the_required_details_to_register()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6792695200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "The user login using \"chikum09@gmail.com\" and \"chikum16\" with vaild and invaild deatils",
+            "match": {
+              "arguments": [
+                {
+                  "val": "chikum09@gmail.com",
+                  "offset": 22
+                },
+                {
+                  "val": "chikum16",
+                  "offset": 47
+                }
+              ],
+              "location": "RegisterLogin_Crossword_Step.the_user_login_using_and_with_vaild_and_invaild_deatils(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5102342500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Close the browser",
+            "match": {
+              "location": "RegisterLogin_Crossword_Step.close_the_browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@TC01_Register_and_Login_with_ValidInvalid_details"
+          },
+          {
+            "line": 1,
+            "name": "@Crossword_WebPage_RaginiBoobalan"
+          }
+        ]
+      },
+      {
+        "line": 16,
+        "name": "To check if the user is able to register and login with valid \u0026 invalid details",
+        "description": "",
+        "id": "crossword-website;to-check-if-the-user-is-able-to-register-and-login-with-valid-\u0026-invalid-details;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 13871553600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "The User launch the Chrome application",
+            "match": {
+              "location": "RegisterLogin_Crossword_Step.the_User_launch_the_Chrome_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5316138800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Enter the required details to register",
+            "match": {
+              "location": "RegisterLogin_Crossword_Step.enter_the_required_details_to_register()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6727212600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "The user login using \"Bro@gmail.com\" and \"Bro123\" with vaild and invaild deatils",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Bro@gmail.com",
+                  "offset": 22
+                },
+                {
+                  "val": "Bro123",
+                  "offset": 42
+                }
+              ],
+              "location": "RegisterLogin_Crossword_Step.the_user_login_using_and_with_vaild_and_invaild_deatils(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1162584200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Close the browser",
+            "match": {
+              "location": "RegisterLogin_Crossword_Step.close_the_browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@TC01_Register_and_Login_with_ValidInvalid_details"
+          },
+          {
+            "line": 1,
+            "name": "@Crossword_WebPage_RaginiBoobalan"
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "To check if the user is able to search for books to add wishlist and delete wishlist then message to customer care",
+        "description": "",
+        "id": "crossword-website;to-check-if-the-user-is-able-to-search-for-books-to-add-wishlist-and-delete-wishlist-then-message-to-customer-care",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9748164600,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User launch the Chrome application",
+            "match": {
+              "location": "SearchMessage_Crossword_Step.user_launch_the_Chrome_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5748055600,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "Open the Crossword Home page and login",
+            "match": {
+              "location": "SearchMessage_Crossword_Step.open_the_Crossword_Home_page_and_login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 12391247000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "User search for the books to add wishlist and delete wishlist",
+            "match": {
+              "location": "SearchMessage_Crossword_Step.user_search_for_the_books_to_add_wishlist_and_delete_wishlist()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4534421000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "User send a message to customer care",
+            "match": {
+              "location": "SearchMessage_Crossword_Step.user_send_a_message_to_customer_care()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1470648700,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "Close the Browser",
+            "match": {
+              "location": "SearchMessage_Crossword_Step.close_the_Browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 18,
+            "name": "@TC02_Search_for_the_books_and_send_message_to_customer_care"
+          }
+        ]
+      },
+      {
+        "line": 34,
+        "name": "To check if the user is able to handle slider and scroll",
+        "description": "",
+        "id": "crossword-website;to-check-if-the-user-is-able-to-handle-slider-and-scroll",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9523052100,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "User Launch the Chrome Application",
+            "match": {
+              "location": "SliderScroll_Crossword_Step.user_Launch_the_Chrome_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5615617300,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "Open the Crossword Home Page and Login",
+            "match": {
+              "location": "SliderScroll_Crossword_Step.open_the_Crossword_Home_Page_and_Login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6484841000,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "User slider the price range",
+            "match": {
+              "location": "SliderScroll_Crossword_Step.user_slider_the_price_range()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4144071300,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "User scroll the page",
+            "match": {
+              "location": "SliderScroll_Crossword_Step.user_scroll_the_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1572395200,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "close the browser",
+            "match": {
+              "location": "SliderScroll_Crossword_Step.close_the_browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 33,
+            "name": "@TC04_Slider_and_Scrolling_functionality"
+          }
+        ]
+      },
+      {
+        "line": 42,
+        "name": "To check if the user is able to update profile and add new address",
+        "description": "",
+        "id": "crossword-website;to-check-if-the-user-is-able-to-update-profile-and-add-new-address",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9704674899,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "User launch the Chrome Application",
+            "match": {
+              "location": "ProfileAddress_Crossword_Step.user_launch_the_Chrome_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8834598400,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "Open the crossword Home Page and Login",
+            "match": {
+              "location": "ProfileAddress_Crossword_Step.open_the_crossword_Home_Page_and_Login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5837907600,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "User update the profile details",
+            "match": {
+              "location": "ProfileAddress_Crossword_Step.user_update_the_profile_details()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 13566649600,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "User add the new address",
+            "match": {
+              "location": "ProfileAddress_Crossword_Step.user_add_the_new_address()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1828112499,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "Close The Browser",
+            "match": {
+              "location": "ProfileAddress_Crossword_Step.close_The_Browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 41,
+            "name": "@TC05_Update_profile_and_new_address"
+          }
+        ]
+      }
+    ],
+    "name": "Crossword Website",
+    "description": "",
+    "id": "crossword-website",
+    "keyword": "Feature",
+    "uri": "src/main/resources/feature/Testcase.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Crossword_WebPage_RaginiBoobalan"
+      }
+    ]
+  }
+]
